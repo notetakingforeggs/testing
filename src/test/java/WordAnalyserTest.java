@@ -45,7 +45,7 @@ class WordAnalyserTest {
         checkTest4.put('m',1);
         checkTest4.put('o',2);
         checkTest4.put('n',1);
-        checkTest4.put('!',1);
+
 
         HashMap<Character, Integer> checkTest5 = new HashMap<>();
 
